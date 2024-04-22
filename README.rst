@@ -9,5 +9,13 @@ This repository contains both the R and Python codes to run the analysis decribe
 The R codes have been created by Christopher Banerji and the Python codes by Anthony Baptista.
 
 ---------------------------------------------------
+R version
+---------------------------------------------------
+
+---------------------------------------------------
+Python version
+---------------------------------------------------
+
+---------------------------------------------------
 Applications on FMINST
 ---------------------------------------------------
