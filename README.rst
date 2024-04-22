@@ -12,9 +12,16 @@ The R codes have been created by Christopher Banerji and the Python codes by Ant
 R version
 ---------------------------------------------------
 
+* ``fMNIST_DNN_training.r``: 
+* ``fMNIST_kNN_RCoef_eval.r``: 
+
 ---------------------------------------------------
 Python version
 ---------------------------------------------------
+
+* ``fmnist_extraction.py``: 
+* ``training.py``: 
+* ``knn.py``: 
 
 ---------------------------------------------------
 Applications on FMINST
