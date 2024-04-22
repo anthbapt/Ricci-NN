@@ -20,8 +20,8 @@ Python version
 ---------------------------------------------------
 
 * ``fmnist_extraction.py``: Code to extract from the FMNIST dataset the test and train sub-dataset for the cloths labelled 5 (Sandal) and 9 (Ankle Boot). The raw data can be found at the following link: https://www.kaggle.com/datasets/zalando-research/fashionmnist
-* ``training.py``: 
-* ``knn.py``: 
+* ``training.py``: Code to train the different Neural Network architectures
+* ``knn.py``: Exploration of the k value for the k-nearest-neighbours (knn) graph construction. The graphs construct based on the knn are used to computed the Ricci flow-low like process
 
 ---------------------------------------------------
 Applications on FMINST
