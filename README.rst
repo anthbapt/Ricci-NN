@@ -12,8 +12,8 @@ The R codes have been created by Christopher Banerji and the Python codes by Ant
 R version
 ---------------------------------------------------
 
-* ``fMNIST_DNN_training.r``: 
-* ``fMNIST_kNN_RCoef_eval.r``: 
+* ``fMNIST_DNN_training.r``: Code to train the different Neural Network architectures
+* ``fMNIST_kNN_RCoef_eval.r``: Exploration of the k value for the k-nearest-neighbours (knn) graph construction. The graphs construct based on the knn are used to computed the Ricci flow-low like process
 
 ---------------------------------------------------
 Python version
