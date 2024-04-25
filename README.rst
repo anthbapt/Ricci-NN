@@ -4,7 +4,7 @@ Ricci-NN : Ricci flow-like process for Neural-Network
 
 This repository contains both the R and Python codes to run the analysis decribed in the following article:
 
-# Add link to arXiv link
+arXiv link to the preprint: https://arxiv.org/abs/2404.14265
 
 The R codes have been created by Christopher Banerji and the Python codes by Anthony Baptista.
 
